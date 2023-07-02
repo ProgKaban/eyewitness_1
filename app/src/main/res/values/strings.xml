@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">eyewitness</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="regiser">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="back">Back</string>
+    <string name="subtitle_by">By</string>
+    <string name="title_add_new_event">Add new event</string>
+    <string name="tv_title">title</string>
+    <string name="tv_description">description</string>
+    <string name="tv_location">location</string>
+    <string name="btn_add">Add</string>
+    <string name="exit">exit</string>
+    <string name="my_events">My events</string>
+    <string name="all_events">All events</string>
+</resources>

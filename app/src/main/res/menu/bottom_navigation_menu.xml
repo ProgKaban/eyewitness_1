@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/feed"
+        android:title="О нас" />
+
+    <item
+        android:id="@+id/action_list"
+        android:icon="@drawable/add"
+        android:title="Добавить собыите" />
+
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/contact"
+        android:title="Профиль" />
+</menu>

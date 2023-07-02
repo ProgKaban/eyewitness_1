@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301741269751",
+    "project_id": "curs-def31",
+    "storage_bucket": "curs-def31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301741269751:android:37988c9b98ae14badae9f2",
+        "android_client_info": {
+          "package_name": "com.example.fierbaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301741269751-embbf6a704ua2nhc048c1b5f35r6iplm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmk4eFtlsl_zL5bwVJv7ZzEjsPrOFPiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301741269751-embbf6a704ua2nhc048c1b5f35r6iplm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
